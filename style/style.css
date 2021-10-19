@@ -115,6 +115,12 @@ margin-top: 0;
     transform: translateY(0);
 }
 
+footer{
+    background-color: var(--secundary-color) ;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
 
 
 
